@@ -9,6 +9,7 @@
 	<a href="${pageContext.request.contextPath }/api/customers">Get All Customers</a>
         <hr>
         <ul>
+			<li>First Entry</li>
         </ul>
 </body>
 </html>
