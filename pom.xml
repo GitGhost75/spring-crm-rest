@@ -69,7 +69,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>spring-crm-rest</finalName>
+		<finalName>crm-rest</finalName>
 		<plugins>
 			<!-- Builds a Web Application Archive (WAR) file from the project output 
 				and its dependencies. -->
